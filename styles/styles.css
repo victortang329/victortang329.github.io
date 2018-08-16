@@ -1,5 +1,12 @@
 html{
 	font-size: 16px;
 	font-family: 'Roboto', sans-serif;
-	/*background-color: #00539F;*/
+	background-color: #00539F;
+	/*background-color: #2E3436;*/
+}
+.status{
+	color: #C4A000;
+}
+.introduction{
+	color: #ffffdd;
 }
